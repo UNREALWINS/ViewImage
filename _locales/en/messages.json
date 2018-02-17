@@ -1,26 +1,26 @@
 {
     "appName": {
         "message": "View image",
-        "description": "Title of the application, displayed on the web store."
+        "description": "Nome da extensão, mostrada na web store."
     },
     "appDesc": {
-        "message": "Re-impliments the google image, \"View Image\" and \"Search by Image\" buttons.",
-        "description": "The description of the application, as shown on the web store."
+        "message": "Re-implementa no Google Imagens o botão \"Ver Imagem\" e o link \"Pesquisar por Imagem\".",
+        "description": "A descrição da extensão, como mostrada na web store."
     },
     "searchImg": {
-        "message": "Search by image",
-        "description": "Button leads to google, search by image page."
+        "message": "Pesquisar por Imagem",
+        "description": "Botão encaminha para o Google, procurando pela página da imagem.."
     },
     "viewImage": {
-        "message": "View image",
-        "description": "Button for viewing image."
+        "message": "Ver imagem",
+        "description": "Botão para visualizar a imagem."
     },
     "settingsToggle_newTab": {
-        "message": "Open images in a new tab:",
-        "description": "Settings toggle which causes images to open in new tab."
+        "message": "Abrir as imagens em uma nova guia:",
+        "description": "Alterar a opção significa que as imagens serão abertas em uma nova guia."
     },
     "resetButton": {
         "message": "Reset",
-        "description": "Text displayed on reset button."
+        "description": "Texto do botão reset."
     }
 }
